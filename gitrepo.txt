@@ -1,0 +1,24 @@
+ this is the first file cerated in git repo
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% docker commands %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+docker run -it imagename/tag -d
+
+docker stop continer name
+
+docker start continer name
+
+docker restart continer name
+
+docker rm continer namr
+
+docker exec it continer name
+
+docker exit
+
+cntrl Q
+
+cntrl D
+
+
+
